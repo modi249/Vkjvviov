@@ -1,1 +1,1 @@
-web: python bot_PROTECTED.py
+worker: python FHASSEh.py
